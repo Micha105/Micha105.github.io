@@ -1,0 +1,153 @@
+a{text-decoration : none} 
+body{
+  font-size: 16px;
+  line-height: 27px;
+  font-family: 'Open Sans', sans-serif;
+  color: #444;
+  background-color: #fff;
+  padding: 50px 100px;
+  background-color: #ddd; 
+  background: url(../img/bgc.jpg) no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+div.back_home{
+  position:absolute;
+  top:20px;
+  right:80%;
+}
+.P2{
+  font-size: 13px;
+  color: rgb(112,112,112);
+}
+.P2:hover{
+        color: rgb(183,183,183);
+}
+
+a {
+  color: #5b6268;
+}
+
+a:hover,
+a:focus {
+  text-decoration: none;
+  color: #5b6268;
+}
+
+h1 {
+  font-size: 45px;
+  line-height: 60px;
+  font-weight: normal;
+  font-family: 'PT Serif', serif;
+}
+
+h2 {
+  font-size: 30px;
+  line-height: 40px;
+  font-family: 'Open Sans', sans-serif;
+}
+
+h3 {
+  font-size: 21px;
+  line-height: 30px;
+  font-weight: normal;
+  font-family: 'Open Sans', sans-serif;
+}
+
+hr {
+  border-top-color: #ced5db;
+}
+
+.fa {
+  font-size: 24px;
+}
+#mobile-nav-toggle .fa {
+
+}
+ .blog-teaser header h3 a:hover {
+   color: rgb(183,183,183)!important;
+ }
+  .clean-nav {
+    box-shadow: none;
+
+    float: left !important;
+    width: 100%;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    -webkit-border-radius: 6px;
+    -moz-border-radius: 6px;
+    border-radius: 6px;
+  }
+
+.blog-teaser {
+  background-color: #fff;
+  border: 1px solid #ddd;
+  margin-bottom: 40px;
+  border-bottom: none;
+}
+@media (min-width: 768px) and (max-width: 979px) {
+  .blog-teaser {
+    display: block;
+    float: none;
+    width: 95%;
+  }
+}
+
+.blog-teaser header {
+  text-align: center;
+}
+
+.blog-teaser header img {
+  margin-bottom: 20px;
+  width: 100%;
+  opacity: 0.8;
+}
+
+.blog-teaser header h3 {
+  color: #454a4e;
+  margin-top: 0;
+  font-size: 28px;
+  margin-bottom: 10px;
+}
+  .social-icon:hover .inner-circle {
+    height: 65px;
+    width: 65px;
+    top: 8px;
+    left: 8px;
+  }
+  .social-icon i {
+    font-size: 35px;
+    top: 25px;
+    left: 25px;
+  }
+  .social-icon i.fa-facebook {
+    left: 32px;
+  }
+  .social-icon i.fa-github-alt {
+    top: 22px;
+  }
+}
+.btn-xlarge {
+  padding: 10px 20px;
+  font-size: 20px;
+  line-height: normal;
+  border-radius: 0px;
+  border-radius: 49px;
+}
+.blog-teaser img{
+  width:300px;
+  height:450px;
+}
+lead-image img{
+  width:500px;
+  height:250px;
+  display: inline;
+  margin-right:50px;
+}
+
+
+.img-responsive {
+    display: block;
+    height: auto;
+    max-width: 20%;
+}

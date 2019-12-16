@@ -1,0 +1,51 @@
+
+body{
+  font-size: 16px;
+  line-height: 27px;
+  font-family: 'Open Sans', sans-serif;
+  color: #444;
+  background-color: #fff;
+  padding: 50px 100px;
+  background-color: #ddd; 
+  background: url(../img/bgc.jpg) no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+.imgControl{
+  position: absolute;
+  top: 181px;
+}
+img{
+  top:90px;
+  position: absolute;
+  width: 290px;
+  height: 420px;
+}
+.imglogo1{
+  left: -13px;
+}
+.imglogo2{
+  left: 297px;
+}
+.imglogo3{
+  height: 520px;
+  width: 710px;
+  left: 608px;
+}
+.img-responsive {
+  display: block;
+  height: auto;
+  max-width: 20%;
+}
+.re_target{
+  position: absolute;
+  width: 160px;
+  height: 50px;
+  top: 62px;
+  left: 164px;
+}
+.target_description{
+  position: absolute;
+  top: 72px;
+  left: -1px;
+}

@@ -11,16 +11,17 @@ body{
   background-size: cover;
   background-attachment: fixed;
 }
+
 div.back_home{
   position:absolute;
   top:20px;
   right:80%;
 }
-.P2{
+.P4{
   font-size: 13px;
   color: rgb(112,112,112);
 }
-.P2:hover{
+.P4:hover{
         color: rgb(183,183,183);
 }
 

@@ -22,15 +22,15 @@ img{
   height: 420px;
 }
 .imglogo1{
-  left: -13px;
+  left: -100px;
 }
 .imglogo2{
-  left: 297px;
+  left: 210px;
 }
 .imglogo3{
   height: 520px;
   width: 710px;
-  left: 608px;
+  left: 520px;
 }
 .img-responsive {
   display: block;

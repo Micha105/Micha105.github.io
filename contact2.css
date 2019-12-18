@@ -1,0 +1,36 @@
+a{text-decoration : none} 
+body{zoom:1.2;}
+div.back_home{
+	position:absolute;
+	top:20px;
+	right:80%;
+}
+.P3{
+	font-size: 13px;
+	color: rgb(112,112,112);
+}
+.P3:hover{
+        color: rgb(183,183,183);
+}
+.img{
+    width: 7%;
+    position: absolute;
+    left: 15%;
+    top: 334px;
+}
+.img1{
+    width: 7%;
+    position: absolute;
+    left: 25%;
+    top: 336px;
+}
+div.contact_contener {
+    position: absolute;
+    width: 25%;
+    top: 40%;
+    display: none;
+}
+.introduce {
+    font-size: 12px;
+    color: rgb(112,112,112);
+}

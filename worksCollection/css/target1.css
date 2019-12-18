@@ -1,0 +1,102 @@
+body{
+  font-size: 16px;
+  line-height: 27px;
+  font-family: 'Open Sans', sans-serif;
+  color: #444;
+  background-color: #fff;
+  padding: 50px 100px;
+  background-color: #ddd; 
+  background: url(../img/bgc.jpg) no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+.imgControl{
+  position: absolute;
+  top: 181px;
+}
+img{
+  top:90px;
+  position: absolute;
+  width: 290px;
+  height: 420px;
+}
+.imglogo1{
+  height: 350px;
+  width: 300px;
+  left: -113px;
+}
+.imglogo2{
+   height: 350px;
+  width: 300px;
+  left: 233px;
+}
+.imglogo3{
+  height: 350px;
+  width: 300px;
+  left: 583px;
+}
+.imglogo4{
+  height: 350px;
+  width: 300px;
+  left: 937px;
+  top:90px;
+}
+.imglogo5{
+  height: 350px;
+  width: 300px;
+  left: 233px;
+  top:500px;
+}
+.imglogo6{
+  height: 350px;
+  width: 300px;
+  left: 583px;
+  top:500px;
+}
+.imglogo7{
+  height: 350px;
+  width: 300px;
+  left: 937px;
+  top:500px;
+}
+.imglogo8{
+  height: 350px;
+  width: 300px;
+  left: -113px;
+  top:500px;
+}
+.imglogo9{
+  height: 245px;
+  width: 405px;
+  left: -31px;
+  top:900px;
+}
+.imglogo10{
+  height: 245px;
+  width: 405px;
+  left: 371px;
+  top:900px;
+}
+.imglogo11{
+  height: 245px;
+  width: 405px;
+  left: 775px;
+  top:900px;
+}
+.img-responsive {
+  display: block;
+  height: auto;
+  max-width: 20%;
+}
+.re_target1{
+  position: absolute;
+  width: 160px;
+  height: 50px;
+  top: 62px;
+  left: 164px;
+}
+.target1_description{
+  position: absolute;
+  top: 72px;
+  left: -1px;
+}

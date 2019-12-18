@@ -1,0 +1,60 @@
+body{
+  font-size: 16px;
+  line-height: 27px;
+  font-family: 'Open Sans', sans-serif;
+  color: #444;
+  background-color: #fff;
+  padding: 50px 100px;
+  background-color: #ddd; 
+  background: url(../img/bgc.jpg) no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+.imgControl{
+  position: absolute;
+  top: 181px;
+}
+img{
+  top:90px;
+  position: absolute;
+  width: 290px;
+  height: 420px;
+}
+.imglogo1{
+  height: 414px;
+  width: 362px;
+  left: -131px;
+}
+.imglogo2{
+   height: 330px;
+  width: 430px;
+  left: 258px;
+}
+.imglogo3{
+  height: 406px;
+  width: 582px;
+  left: 720px;
+}
+.imglogo4{
+  height: 232px;
+  width: 575px;
+  left: 245px;
+  top:500px;
+}
+.img-responsive {
+  display: block;
+  height: auto;
+  max-width: 20%;
+}
+.re_target2{
+  position: absolute;
+  width: 160px;
+  height: 50px;
+  top: 62px;
+  left: 164px;
+}
+.target2_description{
+  position: absolute;
+  top: 72px;
+  left: -1px;
+}

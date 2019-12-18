@@ -1,0 +1,60 @@
+body{
+  height: 880px;
+  font-size: 16px;
+  line-height: 27px;
+  font-family: 'Open Sans', sans-serif;
+  color: #444;
+  background-color: #fff;
+  padding: 50px 100px;
+  background-color: #ddd; 
+  background: url(../img/bgc.jpg) no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+.imgControl{
+  position: absolute;
+  top: 181px;
+}
+img{
+  top:20px;
+  position: absolute;
+  width: 134px;
+  height: 46px;
+}
+.imglogo1{
+  height: 247px;
+  width: 338px;
+  left: -149px;
+}
+.imglogo2{
+   height: 345px;
+  width: 450px;
+  left: 204px;
+}
+.imglogo3{
+  height: 426px;
+  width: 615px;
+  left: 671px;
+}
+.img-responsive {
+  display: block;
+  height: auto;
+  max-width: 20%;
+}
+.re_target2{
+  position: absolute;
+  width: 160px;
+  height: 50px;
+  top: 62px;
+  left: 164px;
+}
+.target2_description{
+  position: absolute;
+  top: 72px;
+  left: -1px;
+}
+.video{
+   position: absolute;
+  top: 500px;
+  left: 600px;
+}

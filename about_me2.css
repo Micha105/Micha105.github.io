@@ -6,6 +6,12 @@ body{zoom:1.2;}
     left: 16%;
     top: 72px;
 }
+.img3{
+	width: 50%;
+    position: absolute;
+    left: 27%;
+    top: 552px;
+}
 div.back_home{
 	position:absolute;
 	top:20px;
